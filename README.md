@@ -6,7 +6,7 @@ a look at it, so here we here.
 ## Install
 
 ```sh
-$ pip install streamlit
+$ pip install streamlit pandas
 ```
 
 ### The data
