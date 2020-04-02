@@ -1,7 +1,7 @@
 # South Park Dialog explorer
 
 I made this dialog explorer to try out `streamlit` and friends wanted to have
-a look at it, so here we here.
+a look at it, so here we are.
 
 ## Install
 
